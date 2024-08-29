@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SC Deutsch Launcher/1.0.0": {
+        "runtime": {
+          "SC Deutsch Launcher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SC Deutsch Launcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
