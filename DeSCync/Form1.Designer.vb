@@ -58,7 +58,7 @@ Partial Class Form1
         ' Tech_Preview
         ' 
         Tech_Preview.BackColor = Color.Transparent
-        Tech_Preview.Font = New Font("Segoe UI", 18.0F, FontStyle.Bold)
+        Tech_Preview.Font = New Font("Segoe UI", 18F, FontStyle.Bold)
         Tech_Preview.ForeColor = Color.White
         Tech_Preview.Location = New Point(30, 224)
         Tech_Preview.Name = "Tech_Preview"
@@ -69,7 +69,7 @@ Partial Class Form1
         ' EPTU
         ' 
         EPTU.BackColor = Color.Transparent
-        EPTU.Font = New Font("Segoe UI", 18.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        EPTU.Font = New Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         EPTU.ForeColor = Color.White
         EPTU.Location = New Point(30, 174)
         EPTU.Name = "EPTU"
@@ -80,7 +80,7 @@ Partial Class Form1
         ' PTU
         ' 
         PTU.BackColor = Color.Transparent
-        PTU.Font = New Font("Segoe UI", 18.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        PTU.Font = New Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         PTU.ForeColor = Color.White
         PTU.Location = New Point(30, 124)
         PTU.Name = "PTU"
@@ -91,7 +91,7 @@ Partial Class Form1
         ' LIVE
         ' 
         LIVE.BackColor = Color.Transparent
-        LIVE.Font = New Font("Segoe UI", 18.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        LIVE.Font = New Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         LIVE.ForeColor = Color.White
         LIVE.Location = New Point(30, 74)
         LIVE.Name = "LIVE"
@@ -112,7 +112,7 @@ Partial Class Form1
         ' LIVE_eng
         ' 
         LIVE_eng.BackColor = Color.Transparent
-        LIVE_eng.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        LIVE_eng.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         LIVE_eng.ForeColor = Color.White
         LIVE_eng.ImageAlign = ContentAlignment.BottomLeft
         LIVE_eng.Location = New Point(193, 74)
@@ -124,7 +124,7 @@ Partial Class Form1
         ' PTU_eng
         ' 
         PTU_eng.BackColor = Color.Transparent
-        PTU_eng.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        PTU_eng.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         PTU_eng.ForeColor = Color.White
         PTU_eng.ImageAlign = ContentAlignment.BottomLeft
         PTU_eng.Location = New Point(193, 124)
@@ -136,7 +136,7 @@ Partial Class Form1
         ' EPTU_eng
         ' 
         EPTU_eng.BackColor = Color.Transparent
-        EPTU_eng.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        EPTU_eng.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         EPTU_eng.ForeColor = Color.White
         EPTU_eng.ImageAlign = ContentAlignment.BottomLeft
         EPTU_eng.Location = New Point(193, 174)
@@ -148,7 +148,7 @@ Partial Class Form1
         ' TECH_PREVIEW_eng
         ' 
         TECH_PREVIEW_eng.BackColor = Color.Transparent
-        TECH_PREVIEW_eng.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        TECH_PREVIEW_eng.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         TECH_PREVIEW_eng.ForeColor = Color.White
         TECH_PREVIEW_eng.ImageAlign = ContentAlignment.BottomLeft
         TECH_PREVIEW_eng.Location = New Point(193, 224)
@@ -160,7 +160,7 @@ Partial Class Form1
         ' LIVE_de
         ' 
         LIVE_de.BackColor = Color.Transparent
-        LIVE_de.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        LIVE_de.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         LIVE_de.ForeColor = Color.White
         LIVE_de.ImageAlign = ContentAlignment.BottomLeft
         LIVE_de.Location = New Point(258, 74)
@@ -172,7 +172,7 @@ Partial Class Form1
         ' PTU_de
         ' 
         PTU_de.BackColor = Color.Transparent
-        PTU_de.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        PTU_de.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         PTU_de.ForeColor = Color.White
         PTU_de.ImageAlign = ContentAlignment.BottomLeft
         PTU_de.Location = New Point(258, 124)
@@ -184,7 +184,7 @@ Partial Class Form1
         ' EPTU_de
         ' 
         EPTU_de.BackColor = Color.Transparent
-        EPTU_de.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        EPTU_de.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         EPTU_de.ForeColor = Color.White
         EPTU_de.ImageAlign = ContentAlignment.BottomLeft
         EPTU_de.Location = New Point(258, 174)
@@ -196,7 +196,7 @@ Partial Class Form1
         ' TECH_PREVIEW_de
         ' 
         TECH_PREVIEW_de.BackColor = Color.Transparent
-        TECH_PREVIEW_de.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        TECH_PREVIEW_de.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         TECH_PREVIEW_de.ForeColor = Color.White
         TECH_PREVIEW_de.ImageAlign = ContentAlignment.BottomLeft
         TECH_PREVIEW_de.Location = New Point(258, 224)
@@ -208,7 +208,7 @@ Partial Class Form1
         ' Label11
         ' 
         Label11.BackColor = Color.Transparent
-        Label11.Font = New Font("Segoe UI", 14.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Label11.Font = New Font("Segoe UI", 14F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Label11.ForeColor = Color.White
         Label11.Location = New Point(30, 346)
         Label11.Name = "Label11"
@@ -220,7 +220,7 @@ Partial Class Form1
         ' 
         Logtext.AutoSize = True
         Logtext.BackColor = Color.Transparent
-        Logtext.Font = New Font("Calibri", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Logtext.Font = New Font("Calibri", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Logtext.ForeColor = Color.White
         Logtext.Location = New Point(460, 82)
         Logtext.Name = "Logtext"
@@ -231,33 +231,32 @@ Partial Class Form1
         ' 
         CheckBox1.AutoSize = True
         CheckBox1.BackColor = Color.Transparent
-        CheckBox1.Checked = True
-        CheckBox1.CheckState = CheckState.Checked
-        CheckBox1.Font = New Font("Space Mono", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        CheckBox1.Font = New Font("Space Mono", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         CheckBox1.ForeColor = Color.White
-        CheckBox1.Location = New Point(756, 59)
+        CheckBox1.Location = New Point(685, 24)
         CheckBox1.Name = "CheckBox1"
-        CheckBox1.Size = New Size(76, 21)
+        CheckBox1.Size = New Size(125, 21)
         CheckBox1.TabIndex = 14
-        CheckBox1.Text = "logging"
+        CheckBox1.Text = "Prozessanzeige"
         CheckBox1.UseVisualStyleBackColor = False
         ' 
         ' Reset
         ' 
         Reset.BackColor = Color.Black
-        Reset.Font = New Font("Space Mono", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Reset.Font = New Font("Space Mono", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Reset.ForeColor = Color.White
-        Reset.Location = New Point(754, 28)
+        Reset.Location = New Point(738, 48)
         Reset.Name = "Reset"
         Reset.Size = New Size(72, 26)
         Reset.TabIndex = 15
         Reset.Text = "reset"
         Reset.UseVisualStyleBackColor = False
+        Reset.Visible = False
         ' 
         ' LIVE_de_voll
         ' 
         LIVE_de_voll.BackColor = Color.Transparent
-        LIVE_de_voll.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        LIVE_de_voll.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         LIVE_de_voll.ForeColor = Color.White
         LIVE_de_voll.ImageAlign = ContentAlignment.BottomLeft
         LIVE_de_voll.Location = New Point(324, 74)
@@ -285,7 +284,7 @@ Partial Class Form1
         ' HOTFIX
         ' 
         HOTFIX.BackColor = Color.Transparent
-        HOTFIX.Font = New Font("Segoe UI", 18.0F, FontStyle.Bold)
+        HOTFIX.Font = New Font("Segoe UI", 18F, FontStyle.Bold)
         HOTFIX.ForeColor = Color.White
         HOTFIX.Location = New Point(30, 274)
         HOTFIX.Name = "HOTFIX"
@@ -296,7 +295,7 @@ Partial Class Form1
         ' HOTFIX_eng
         ' 
         HOTFIX_eng.BackColor = Color.Transparent
-        HOTFIX_eng.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        HOTFIX_eng.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         HOTFIX_eng.ForeColor = Color.White
         HOTFIX_eng.ImageAlign = ContentAlignment.BottomLeft
         HOTFIX_eng.Location = New Point(193, 274)
@@ -308,7 +307,7 @@ Partial Class Form1
         ' HOTFIX_de
         ' 
         HOTFIX_de.BackColor = Color.Transparent
-        HOTFIX_de.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        HOTFIX_de.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         HOTFIX_de.ForeColor = Color.White
         HOTFIX_de.ImageAlign = ContentAlignment.BottomLeft
         HOTFIX_de.Location = New Point(258, 274)
@@ -320,7 +319,7 @@ Partial Class Form1
         ' HOTFIXPTUini
         ' 
         HOTFIXPTUini.BackColor = Color.Transparent
-        HOTFIXPTUini.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        HOTFIXPTUini.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         HOTFIXPTUini.ForeColor = Color.White
         HOTFIXPTUini.ImageAlign = ContentAlignment.BottomLeft
         HOTFIXPTUini.Location = New Point(388, 274)
@@ -332,7 +331,7 @@ Partial Class Form1
         ' HOTFIXLIVEini
         ' 
         HOTFIXLIVEini.BackColor = Color.Transparent
-        HOTFIXLIVEini.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        HOTFIXLIVEini.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         HOTFIXLIVEini.ForeColor = Color.White
         HOTFIXLIVEini.ImageAlign = ContentAlignment.BottomLeft
         HOTFIXLIVEini.Location = New Point(324, 274)
@@ -344,7 +343,7 @@ Partial Class Form1
         ' TPLIVEini
         ' 
         TPLIVEini.BackColor = Color.Transparent
-        TPLIVEini.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        TPLIVEini.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         TPLIVEini.ForeColor = Color.White
         TPLIVEini.ImageAlign = ContentAlignment.BottomLeft
         TPLIVEini.Location = New Point(324, 222)
@@ -356,7 +355,7 @@ Partial Class Form1
         ' TPPTUini
         ' 
         TPPTUini.BackColor = Color.Transparent
-        TPPTUini.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        TPPTUini.Font = New Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         TPPTUini.ForeColor = Color.White
         TPPTUini.ImageAlign = ContentAlignment.BottomLeft
         TPPTUini.Location = New Point(388, 222)
@@ -386,7 +385,7 @@ Partial Class Form1
         ' Update_available
         ' 
         Update_available.BackColor = Color.Transparent
-        Update_available.Font = New Font("Segoe UI", 14.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Update_available.Font = New Font("Segoe UI", 14F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
         Update_available.ForeColor = Color.White
         Update_available.Location = New Point(269, 346)
         Update_available.Name = "Update_available"

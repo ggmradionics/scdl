@@ -45,11 +45,14 @@ Public Class Form1
 
 
         ' Vorbereitungen - setzte Flags und Lade Bilder
+        Verbose = True
         If My.Settings.Verbose = True Then
-            Verbose = True
             Logtext.Text = "Logging:" & vbCrLf : Logtext.Refresh()
+            CheckBox1.Checked = True
+            Logtext.Visible = True
         Else
-            Verbose = False
+            CheckBox1.Checked = False
+            Logtext.Visible = False
         End If
 
         'Update Routine
@@ -1745,9 +1748,11 @@ Public Class Form1
 
     Private Sub CheckBox1_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox1.CheckedChanged
         If CheckBox1.Checked = True Then
-            My.Settings.Verbose = True : Verbose = True
+            Logtext.Visible = True
+            My.Settings.Verbose = True
         Else
-            My.Settings.Verbose = False : Verbose = False
+            Logtext.Visible = False
+            My.Settings.Verbose = False
         End If
         My.Settings.Save()
     End Sub
@@ -1946,9 +1951,11 @@ Public Class Form1
 
     Sub StartUpdateProcess()
         'Update über eigenen download von einer Website
-        MsgBox("Ein Update ist verfügbar!" & vbCrLf & vbCrLf & "Wenn du auf 'OK' klickst, öffnet sich eine Website auf der du das Update herunterladen kannst.", vbOKOnly, "Update")
-        Process.Start("explorer.exe", "https://www.fwkart.de/sc-deutsch-launcher-update")
-        Environment.Exit(0)
+        Dim x = MsgBox("Ein Update ist verfügbar!" & vbCrLf & vbCrLf & "Wenn du auf 'OK' klickst, schließt sich der SC Deutsch Launcher und es öffnet sich eine Webseite, auf der du das Update herunterladen kannst.", vbOKCancel, "Update")
+        If x = 1 Then
+            Process.Start("explorer.exe", "https://www.fwkart.de/sc-deutsch-launcher-update")
+            Environment.Exit(0)
+        End If
 
     End Sub
 

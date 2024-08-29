@@ -15,11 +15,11 @@ Imports System
 Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("scdl"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
- Assembly: System.Reflection.AssemblyFileVersionAttribute("1.3.2.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.3.2.0+53604093a68e922cc88ae7920cac74d97ad6ae78"),  _
+ Assembly: System.Reflection.AssemblyFileVersionAttribute("1.3.2.1"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.3.2.1+53604093a68e922cc88ae7920cac74d97ad6ae78"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("scdl"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("scdl"),  _
- Assembly: System.Reflection.AssemblyVersionAttribute("1.3.2.0"),  _
+ Assembly: System.Reflection.AssemblyVersionAttribute("1.3.2.1"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 
 

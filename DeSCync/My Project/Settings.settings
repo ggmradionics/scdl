@@ -29,9 +29,6 @@
     <Setting Name="lang_TECH_PREVIEW" Type="System.String" Scope="User">
       <Value Profile="(Default)">eng</Value>
     </Setting>
-    <Setting Name="Verbose" Type="System.Boolean" Scope="User">
-      <Value Profile="(Default)">True</Value>
-    </Setting>
     <Setting Name="de_full_flag" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
     </Setting>
@@ -46,6 +43,9 @@
     </Setting>
     <Setting Name="TECH_PREVIEW_ini" Type="System.String" Scope="User">
       <Value Profile="(Default)">LIVE</Value>
+    </Setting>
+    <Setting Name="Verbose" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
     </Setting>
   </Settings>
 </SettingsFile>

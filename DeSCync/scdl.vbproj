@@ -7,7 +7,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
     <ApplicationIcon>Resources\favicon.ico</ApplicationIcon>
-    <Version>1.3.2.0</Version>
+    <Version>1.3.2.1</Version>
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
   </PropertyGroup>
 
