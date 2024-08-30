@@ -1,0 +1,54 @@
+D:\Codeprojects\DeSCync\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.exe
+D:\Codeprojects\DeSCync\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.dll.config
+D:\Codeprojects\DeSCync\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.deps.json
+D:\Codeprojects\DeSCync\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.runtimeconfig.json
+D:\Codeprojects\DeSCync\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.dll
+D:\Codeprojects\DeSCync\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.pdb
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\SC_Deutsch_Launcher.Form1.resources
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\SC_Deutsch_Launcher.Resources.resources
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.vbproj.GenerateResource.cache
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.AssemblyInfoInputs.cache
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.AssemblyInfo.vb
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.vbproj.CoreCompileInputs.cache
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.dll
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\refint\SC Deutsch Launcher.dll
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.pdb
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.genruntimeconfig.cache
+D:\Codeprojects\DeSCync\DeSCync\obj\Debug\net8.0-windows\ref\SC Deutsch Launcher.dll
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.exe
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.dll.config
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.deps.json
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.runtimeconfig.json
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.dll
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.pdb
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC_Deutsch_Launcher.Form1.resources
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.vbproj.GenerateResource.cache
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.AssemblyInfoInputs.cache
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.AssemblyInfo.vb
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.dll
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\refint\SC Deutsch Launcher.dll
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.pdb
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.genruntimeconfig.cache
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\ref\SC Deutsch Launcher.dll
+C:\Users\ggmra\Documents\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC_Deutsch_Launcher.Resources.resources
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.exe
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.dll.config
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.deps.json
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.runtimeconfig.json
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.dll
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\bin\Debug\net8.0-windows\SC Deutsch Launcher.pdb
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC_Deutsch_Launcher.Form1.resources
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC_Deutsch_Launcher.Resources.resources
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.vbproj.GenerateResource.cache
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.AssemblyInfoInputs.cache
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.AssemblyInfo.vb
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.vbproj.CoreCompileInputs.cache
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.dll
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\refint\SC Deutsch Launcher.dll
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.pdb
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\SC Deutsch Launcher.genruntimeconfig.cache
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\obj\Debug\net8.0-windows\ref\SC Deutsch Launcher.dll

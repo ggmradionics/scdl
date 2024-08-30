@@ -1,0 +1,22 @@
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\SC Deutsch Launcher.deps.json
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\SC Deutsch Launcher.runtimeconfig.json
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\SC Deutsch Launcher.exe
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\SC Deutsch Launcher.dll.config
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\SC Deutsch Launcher.dll.manifest
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\SC Deutsch Launcher.application
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\SC Deutsch Launcher.dll
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\SC Deutsch Launcher.pdb
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC_Deutsch_Launcher.Form1.resources
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC_Deutsch_Launcher.Resources.resources
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC Deutsch Launcher.vbproj.GenerateResource.cache
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC Deutsch Launcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC Deutsch Launcher.AssemblyInfoInputs.cache
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC Deutsch Launcher.AssemblyInfo.vb
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC Deutsch Launcher.vbproj.CoreCompileInputs.cache
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC Deutsch Launcher.genruntimeconfig.cache
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC Deutsch Launcher.dll.manifest
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC Deutsch Launcher.application
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC Deutsch Launcher.dll
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\refint\SC Deutsch Launcher.dll
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\SC Deutsch Launcher.pdb
+D:\Codeprojects\DeSCync\DeSCync\obj\Release\net8.0-windows\win-x86\ref\SC Deutsch Launcher.dll

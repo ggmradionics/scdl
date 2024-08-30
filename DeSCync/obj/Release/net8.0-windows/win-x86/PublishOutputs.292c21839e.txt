@@ -1,0 +1,6 @@
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\app.publish\SC Deutsch Launcher.exe
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\app.publish\SC Deutsch Launcher.dll
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\app.publish\SC Deutsch Launcher.deps.json
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\app.publish\SC Deutsch Launcher.runtimeconfig.json
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\app.publish\SC Deutsch Launcher.dll.config
+D:\Codeprojects\DeSCync\DeSCync\bin\Release\net8.0-windows\win-x86\app.publish\SC Deutsch Launcher.pdb

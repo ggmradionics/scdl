@@ -1,0 +1,6 @@
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\SC Deutsch Launcher\scdl.exe
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\SC Deutsch Launcher\scdl.dll
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\SC Deutsch Launcher\scdl.deps.json
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\SC Deutsch Launcher\scdl.runtimeconfig.json
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\SC Deutsch Launcher\scdl.dll.config
+D:\Codeprojects\SC Deutsch Launcher\DeSCync\SC Deutsch Launcher\scdl.pdb
