@@ -1,51 +1,5 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" UseMySettingsClassName="true">
   <Profiles />
-  <Settings>
-    <Setting Name="SC_Installationpath_LIVE" Type="System.String" Scope="User">
-      <Value Profile="(Default)">C:\Program Files\Roberts Space Industries\StarCitizen\LIVE</Value>
-    </Setting>
-    <Setting Name="SC_Installationpath_PTU" Type="System.String" Scope="User">
-      <Value Profile="(Default)">C:\Program Files\Roberts Space Industries\StarCitizen\PTU</Value>
-    </Setting>
-    <Setting Name="SC_Installationpath_EPTU" Type="System.String" Scope="User">
-      <Value Profile="(Default)">C:\Program Files\Roberts Space Industries\StarCitizen\EPTU</Value>
-    </Setting>
-    <Setting Name="SC_Installationpath_TECH_PREVIEW" Type="System.String" Scope="User">
-      <Value Profile="(Default)">C:\Program Files\Roberts Space Industries\StarCitizen\TECH-PREVIEW</Value>
-    </Setting>
-    <Setting Name="LC_Installationpath" Type="System.String" Scope="User">
-      <Value Profile="(Default)">C:\Program Files\Roberts Space Industries\RSI Launcher</Value>
-    </Setting>
-    <Setting Name="lang_LIVE" Type="System.String" Scope="User">
-      <Value Profile="(Default)">eng</Value>
-    </Setting>
-    <Setting Name="lang_PTU" Type="System.String" Scope="User">
-      <Value Profile="(Default)">eng</Value>
-    </Setting>
-    <Setting Name="lang_EPTU" Type="System.String" Scope="User">
-      <Value Profile="(Default)">eng</Value>
-    </Setting>
-    <Setting Name="lang_TECH_PREVIEW" Type="System.String" Scope="User">
-      <Value Profile="(Default)">eng</Value>
-    </Setting>
-    <Setting Name="de_full_flag" Type="System.Boolean" Scope="User">
-      <Value Profile="(Default)">False</Value>
-    </Setting>
-    <Setting Name="SC_Installationpath_HOTFIX" Type="System.String" Scope="User">
-      <Value Profile="(Default)">C:\Program Files\Roberts Space Industries\StarCitizen\HOTFIX</Value>
-    </Setting>
-    <Setting Name="lang_HOTFIX" Type="System.String" Scope="User">
-      <Value Profile="(Default)">eng</Value>
-    </Setting>
-    <Setting Name="HOTFIX_ini" Type="System.String" Scope="User">
-      <Value Profile="(Default)">LIVE</Value>
-    </Setting>
-    <Setting Name="TECH_PREVIEW_ini" Type="System.String" Scope="User">
-      <Value Profile="(Default)">LIVE</Value>
-    </Setting>
-    <Setting Name="Verbose" Type="System.Boolean" Scope="User">
-      <Value Profile="(Default)">True</Value>
-    </Setting>
-  </Settings>
+  <Settings />
 </SettingsFile>

@@ -1,6 +1,0 @@
-Das Icon ändern
-
-1. Klicke auf dem Desktop oder im Startmenü mit der rechten Maustaste auf die SC Deutsch Launcher und/oder SC Deutsch Launcher (auto)-Verknüpfung
-2. Wähle "Eigenschaften" aus
-3. Wähle "Anderes Symbol" -> "Durchsuchen" und navigiere zum "SC DEUTSCH LAUNCHER"-Verzeichnis -> "Ressourcen" -> "Icons"
-4. Suche dir ein Icon aus und wähle OK und Übernehmen
