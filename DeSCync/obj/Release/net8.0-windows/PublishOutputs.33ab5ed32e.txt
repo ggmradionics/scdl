@@ -1,6 +1,0 @@
-D:\Codeprojects\DeSCync\DeSCync\SC Deutsch Launcher\SC Deutsch Launcher.exe
-D:\Codeprojects\DeSCync\DeSCync\SC Deutsch Launcher\SC Deutsch Launcher.dll
-D:\Codeprojects\DeSCync\DeSCync\SC Deutsch Launcher\SC Deutsch Launcher.deps.json
-D:\Codeprojects\DeSCync\DeSCync\SC Deutsch Launcher\SC Deutsch Launcher.runtimeconfig.json
-D:\Codeprojects\DeSCync\DeSCync\SC Deutsch Launcher\SC Deutsch Launcher.dll.config
-D:\Codeprojects\DeSCync\DeSCync\SC Deutsch Launcher\SC Deutsch Launcher.pdb
